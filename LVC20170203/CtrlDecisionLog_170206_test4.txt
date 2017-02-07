@@ -1,0 +1,74 @@
+
+=============== MainWindowTempLog_2017-02-06_08:41:29.327 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 00 	 VoltsV: 115
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 00 	 VoltsV: 115
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 115  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 1 	 VoltsV: 115  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Sub Taps No Conrtols Needed this Cycle 
+ = 0 PAMP SC242_CTL 1 115 < 113.5 or gtvr = 9.55526828765869 
+ = 1 CREW SC242_CTL 1 119.199996948242 < 113.5 or gtvr = 9.55526828765869 
+ = 
+=============== MainWindowTempLog_2017-02-06_08:41:30.188 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 00 	 VoltsV: 115
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 00 	 VoltsV: 115
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 115  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 1 	 VoltsV: 119.199996948242  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Sub Taps No Conrtols Needed this Cycle 
+ = 0 PAMP SC242_CTL 1 114.190605163574 < 113.5 or gtvr = 9.55053615570068 
+ = 1 CREW SC242_CTL 1 119.802375793457 < 113.5 or gtvr = 9.55053615570068 
+ = Cap Bank Control: CAPBANK 1 is TRIP 
+ =  CapControl CREW SC242_CTL TRIP 119.802375793457
+ = 
+=============== MainWindowTempLog_2017-02-06_08:41:31.005 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 00 	 VoltsV: 114.630958557129
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 00 	 VoltsV: 114.630958557129
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 114.190605163574  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.802375793457  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Sub Taps No Conrtols Needed this Cycle 
+ = 0 PAMP SC242_CTL 1 114.108390808105 < 113.5 or gtvr = 10.2065572738647 
+ = 1 CREW SC242_CTL 0 119.722190856934 < 113.5 or gtvr = 10.2065572738647 
+ = Not enough CAPBANK Counts 1 < 5 1 < 5  3 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:41:31.813 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 00 	 VoltsV: 114.554695129395
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 00 	 VoltsV: 114.554695129395
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 114.108390808105  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.722190856934  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Control Decision FARMLTC TX4LTC_CTL RAISE 
+ = Control Decision FARMLTC TX5LTC_CTL RAISE 
+ = 0 PAMP SC242_CTL 1 114.024047851563 < 113.5 or gtvr = 10.8812694549561 
+ = 1 CREW SC242_CTL 0 119.639976501465 < 113.5 or gtvr = 10.8812694549561 
+ = Not enough CAPBANK Counts 2 < 5 2 < 5  0 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:41:32.622 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 01 	 VoltsV: 114.476501464844
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 01 	 VoltsV: 114.476501464844
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 114.024047851563  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.639976501465  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Not enough Counts yet = [1<3] 
+ = 0 PAMP SC242_CTL 1 113.937591552734 < 113.5 or gtvr = 11.5752239227295 
+ = 1 CREW SC242_CTL 0 119.555725097656 < 113.5 or gtvr = 11.5752239227295 
+ = Not enough CAPBANK Counts 3 < 5 3 < 5  1 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:41:33.430 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 01 	 VoltsV: 114.396362304688
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 01 	 VoltsV: 114.396362304688
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.937591552734  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.555725097656  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Not enough Counts yet = [2<3] 
+ = 0 PAMP SC242_CTL 1 113.848976135254 < 113.5 or gtvr = 12.2891302108765 
+ = 1 CREW SC242_CTL 0 119.469345092773 < 113.5 or gtvr = 12.2891302108765 
+ = Not enough CAPBANK Counts 4 < 5 4 < 5  2 < 3
+ = 

@@ -1,0 +1,290 @@
+
+=============== MainWindowTempLog_2017-02-06_08:40:12.848 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 115
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 12 	 VoltsV: 115
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 115  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 1 	 VoltsV: 115  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Sub Taps No Conrtols Needed this Cycle 
+ = 0 PAMP SC242_CTL 1 115 < 113.5 or gtvr = 9.55526828765869 
+ = 1 CREW SC242_CTL 1 119.199996948242 < 113.5 or gtvr = 9.55526828765869 
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:13.693 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 115
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 12 	 VoltsV: 115
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 115  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 1 	 VoltsV: 119.199996948242  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Sub Taps No Conrtols Needed this Cycle 
+ = 0 PAMP SC242_CTL 1 114.190605163574 < 113.5 or gtvr = 9.55053615570068 
+ = 1 CREW SC242_CTL 1 119.802375793457 < 113.5 or gtvr = 9.55053615570068 
+ = Cap Bank Control: CAPBANK 1 is TRIP 
+ =  CapControl CREW SC242_CTL TRIP 119.802375793457
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:14.510 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.630958557129
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 12 	 VoltsV: 114.630958557129
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 114.190605163574  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.802375793457  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Sub Taps No Conrtols Needed this Cycle 
+ = 0 PAMP SC242_CTL 1 114.108390808105 < 113.5 or gtvr = 10.2065572738647 
+ = 1 CREW SC242_CTL 0 119.722190856934 < 113.5 or gtvr = 10.2065572738647 
+ = Not enough CAPBANK Counts 1 < 5 1 < 5  3 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:15.318 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.554695129395
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 12 	 VoltsV: 114.554695129395
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 114.108390808105  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.722190856934  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = CON TAP Control Deselected No control 
+ = Control Decision FARMLTC TX5LTC_CTL RAISE 
+ = 0 PAMP SC242_CTL 1 114.024047851563 < 113.5 or gtvr = 10.8812694549561 
+ = 1 CREW SC242_CTL 0 119.639976501465 < 113.5 or gtvr = 10.8812694549561 
+ = Not enough CAPBANK Counts 2 < 5 2 < 5  0 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:16.123 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.476501464844
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 13 	 VoltsV: 114.476501464844
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 114.024047851563  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.639976501465  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Not enough Counts yet = [1<3] 
+ = 0 PAMP SC242_CTL 1 113.937591552734 < 113.5 or gtvr = 11.5752239227295 
+ = 1 CREW SC242_CTL 0 119.555725097656 < 113.5 or gtvr = 11.5752239227295 
+ = Not enough CAPBANK Counts 3 < 5 3 < 5  1 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:16.930 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.396362304688
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 13 	 VoltsV: 114.396362304688
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.937591552734  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.555725097656  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Not enough Counts yet = [2<3] 
+ = 0 PAMP SC242_CTL 1 113.848976135254 < 113.5 or gtvr = 12.2891302108765 
+ = 1 CREW SC242_CTL 0 119.469345092773 < 113.5 or gtvr = 12.2891302108765 
+ = Not enough CAPBANK Counts 4 < 5 4 < 5  2 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:17.757 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.31421661377
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 13 	 VoltsV: 114.31421661377
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.848976135254  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.469345092773  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Not enough Counts yet = [3<3] 
+ = 0 PAMP SC242_CTL 1 113.75813293457 < 113.5 or gtvr = 13.0235967636108 
+ = 1 CREW SC242_CTL 0 119.380798339844 < 113.5 or gtvr = 13.0235967636108 
+ = Not enough CAPBANK Counts 5 < 5 5 < 5  3 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:18.567 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.230026245117
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 13 	 VoltsV: 114.230026245117
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.75813293457  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.380798339844  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = CON TAP Control Deselected No control 
+ = Control Decision FARMLTC TX5LTC_CTL RAISE 
+ = 0 PAMP SC242_CTL 1 113.664901733398 < 113.5 or gtvr = 13.7878675460815 
+ = 1 CREW SC242_CTL 0 119.289970397949 < 113.5 or gtvr = 13.7878675460815 
+ = Not enough CAPBANK Counts 6 < 5 5 < 5  0 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:19.375 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.143669128418
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 14 	 VoltsV: 114.143669128418
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.664901733398  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.289970397949  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Not enough Counts yet = [1<3] 
+ = 0 PAMP SC242_CTL 1 113.582145690918 < 113.5 or gtvr = 14.4853572845459 
+ = 1 CREW SC242_CTL 0 119.232116699219 < 113.5 or gtvr = 14.4853572845459 
+ = Not enough CAPBANK Counts 7 < 5 5 < 5  1 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:20.205 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.067024230957
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 14 	 VoltsV: 114.067024230957
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.582145690918  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.232116699219  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Not enough Counts yet = [2<3] 
+ = 0 PAMP SC242_CTL 1 113.510856628418 < 113.5 or gtvr = 15.125072479248 
+ = 1 CREW SC242_CTL 0 119.20964050293 < 113.5 or gtvr = 15.125072479248 
+ = Not enough CAPBANK Counts 8 < 5 5 < 5  2 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:21.011 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.000900268555
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 14 	 VoltsV: 114.000900268555
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.510856628418  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.20964050293  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Not enough Counts yet = [3<3] 
+ = 0 PAMP SC242_CTL 1 113.43766784668 < 113.5 or gtvr = 15.7822723388672 
+ = Determine Cap Bank Control... 
+ = 1 CREW SC242_CTL 0 119.186561584473 < 113.5 or gtvr = 15.7822723388672 
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:21.825 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 113.933082580566
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 14 	 VoltsV: 113.933082580566
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.43766784668  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.186561584473  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Sub Taps No Conrtols Needed this Cycle 
+ = 0 PAMP SC242_CTL 1 114.205383300781 < 113.5 or gtvr = 16.6172981262207 
+ = 1 CREW SC242_CTL 0 119.816856384277 < 113.5 or gtvr = 16.6172981262207 
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:22.633 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.644760131836
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 14 	 VoltsV: 114.644760131836
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 114.205383300781  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.816856384277  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Sub Taps No Conrtols Needed this Cycle 
+ = 0 PAMP SC242_CTL 1 114.100166320801 < 113.5 or gtvr = 17.4883937835693 
+ = 1 CREW SC242_CTL 0 119.714157104492 < 113.5 or gtvr = 17.4883937835693 
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:23.441 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.54704284668
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 14 	 VoltsV: 114.54704284668
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 114.100166320801  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.714157104492  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = CON TAP Control Deselected No control 
+ = Control Decision FARMLTC TX5LTC_CTL RAISE 
+ = 0 PAMP SC242_CTL 1 113.991859436035 < 113.5 or gtvr = 18.3849868774414 
+ = 1 CREW SC242_CTL 0 119.608581542969 < 113.5 or gtvr = 18.3849868774414 
+ = Not enough CAPBANK Counts 9 < 5 5 < 5  0 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:24.249 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.446640014648
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 15 	 VoltsV: 114.446640014648
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.991859436035  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.608581542969  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Not enough Counts yet = [1<3] 
+ = 0 PAMP SC242_CTL 1 113.880729675293 < 113.5 or gtvr = 19.3085117340088 
+ = 1 CREW SC242_CTL 0 119.500267028809 < 113.5 or gtvr = 19.3085117340088 
+ = Not enough CAPBANK Counts 10 < 5 5 < 5  1 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:25.058 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.343620300293
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 15 	 VoltsV: 114.343620300293
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.880729675293  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.500267028809  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Not enough Counts yet = [2<3] 
+ = 0 PAMP SC242_CTL 1 113.766677856445 < 113.5 or gtvr = 20.2599449157715 
+ = 1 CREW SC242_CTL 0 119.389099121094 < 113.5 or gtvr = 20.2599449157715 
+ = Not enough CAPBANK Counts 11 < 5 5 < 5  2 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:25.865 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.237915039063
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 15 	 VoltsV: 114.237915039063
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.766677856445  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.389099121094  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Not enough Counts yet = [3<3] 
+ = 0 PAMP SC242_CTL 1 113.649612426758 < 113.5 or gtvr = 21.2402820587158 
+ = 1 CREW SC242_CTL 0 119.275001525879 < 113.5 or gtvr = 21.2402820587158 
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:26.673 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.129409790039
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 15 	 VoltsV: 114.129409790039
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.649612426758  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.275001525879  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = CON TAP Control Deselected No control 
+ = Control Decision FARMLTC TX5LTC_CTL RAISE 
+ = 0 PAMP SC242_CTL 1 113.553031921387 < 113.5 or gtvr = 22.1003341674805 
+ = 1 CREW SC242_CTL 0 119.222946166992 < 113.5 or gtvr = 22.1003341674805 
+ = Not enough CAPBANK Counts 12 < 5 5 < 5  0 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:27.481 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.040115356445
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 16 	 VoltsV: 114.040115356445
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.553031921387  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.222946166992  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Not enough Counts yet = [1<3] 
+ = 0 PAMP SC242_CTL 1 113.463714599609 < 113.5 or gtvr = 22.9370155334473 
+ = Determine Cap Bank Control... 
+ = 1 CREW SC242_CTL 0 119.194770812988 < 113.5 or gtvr = 22.9370155334473 
+ = Not enough CAPBANK Counts 13 < 5 5 < 5  1 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:28.289 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 113.957191467285
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 16 	 VoltsV: 113.957191467285
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.463714599609  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.194770812988  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Not enough Counts yet = [2<3] 
+ = 0 PAMP SC242_CTL 1 114.230560302734 < 113.5 or gtvr = 23.9105644226074 
+ = 1 CREW SC242_CTL 0 119.841407775879 < 113.5 or gtvr = 23.9105644226074 
+ = Not enough CAPBANK Counts 14 < 5 5 < 5  2 < 3
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:29.097 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.668121337891
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 16 	 VoltsV: 114.668121337891
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 114.230560302734  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.841407775879  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = Not enough Counts yet = [3<3] 
+ = 0 PAMP SC242_CTL 1 114.101165771484 < 113.5 or gtvr = 25.014009475708 
+ = 1 CREW SC242_CTL 0 119.715103149414 < 113.5 or gtvr = 25.014009475708 
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:29.942 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.54793548584
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 16 	 VoltsV: 114.54793548584
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 114.101165771484  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.715103149414  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = CON TAP Control Deselected No control 
+ = CON TAP Control Deselected No control 
+ = 0 PAMP SC242_CTL 1 113.967750549316 < 113.5 or gtvr = 26.1511497497559 
+ = 1 CREW SC242_CTL 0 119.585075378418 < 113.5 or gtvr = 26.1511497497559 
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:30.750 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.424263000488
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 16 	 VoltsV: 114.424263000488
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.967750549316  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.585075378418  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = CON TAP Control Deselected No control 
+ = CON TAP Control Deselected No control 
+ = 0 PAMP SC242_CTL 1 113.830688476563 < 113.5 or gtvr = 27.3240566253662 
+ = 1 CREW SC242_CTL 0 119.451477050781 < 113.5 or gtvr = 27.3240566253662 
+ = 
+=============== MainWindowTempLog_2017-02-06_08:40:31.554 ===============
+
+	- ControlTransformers_FARMLTC_TX4LTC_CTL	| TapV: 16 	 VoltsV: 114.297210693359
+	- ControlTransformers_FARMLTC_TX5LTC_CTL	| TapV: 16 	 VoltsV: 114.297210693359
+	- ControlCapBanks_SC242PAMPLIN	| CapBkrV: 1 	 VoltsV: 113.830688476563  Clov:113.5 Chiv:119.7
+	- ControlCapBanks_SC242CREWE	| CapBkrV: 0 	 VoltsV: 119.451477050781  Clov:113.5 Chiv:119.7
+%%	  Program control is ON 
+ = CON TAP Control Deselected No control 
+ = CON TAP Control Deselected No control 
+ = 0 PAMP SC242_CTL 1 113.689865112305 < 113.5 or gtvr = 28.5340881347656 
+ = 1 CREW SC242_CTL 0 119.314208984375 < 113.5 or gtvr = 28.5340881347656 
+ = 

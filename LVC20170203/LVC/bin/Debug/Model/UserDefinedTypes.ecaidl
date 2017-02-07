@@ -1,0 +1,27 @@
+category test
+Input {
+    Integer Int16 TapVTx4
+    FloatingPoint Double MwVTx4
+    FloatingPoint Double MvrVTx4
+    FloatingPoint Double VoltsVTx4
+    Integer Int16 TapVTx5
+    FloatingPoint Double MwVTx5
+    FloatingPoint Double MvrVTx5
+    FloatingPoint Double VoltsVTx5
+    Integer Int16 BusBkrVCap1
+    Integer Int16 CapBkrVCap1
+    FloatingPoint Double LocKvVCap1
+    Integer Int16 BusBkrVCap2
+    Integer Int16 CapBkrVCap2
+    FloatingPoint Double LocKvVCap2
+    FloatingPoint Double G1Mw
+    FloatingPoint Double G1Mvr
+    FloatingPoint Double G2Mw
+    FloatingPoint Double G2Mvr
+}
+
+category test
+OutputData {
+    FloatingPoint Double ControlDecision
+}
+

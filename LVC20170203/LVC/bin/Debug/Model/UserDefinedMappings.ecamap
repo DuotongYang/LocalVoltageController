@@ -1,0 +1,25 @@
+test Input Map_In {
+    TapVTx4: PPA:73 
+    MwVTx4: PPA:74 
+    MvrVTx4: PPA:75 
+    VoltsVTx4: PPA:76 
+    TapVTx5: PPA:77 
+    MwVTx5: PPA:78 
+    MvrVTx5: PPA:79 
+    VoltsVTx5: PPA:80 
+    BusBkrVCap1: PPA:81 
+    CapBkrVCap1: PPA:82 
+    LocKvVCap1: PPA:83 
+    BusBkrVCap2: PPA:84 
+    CapBkrVCap2: PPA:85 
+    LocKvVCap2: PPA:86 
+    G1Mw: PPA:87 
+    G1Mvr: PPA:88 
+    G2Mw: PPA:89 
+    G2Mvr: PPA:90 
+}
+
+test OutputData Map_out {
+    ControlDecision: PPA:10 
+}
+
